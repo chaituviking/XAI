@@ -108,3 +108,5 @@ Install all packages
     
 ## How to reproduce the original results of TimeX++
 You can find Reproducibility [here](https://github.com/zichuan-liu/TimeXplusplus#how-to-run)
+##Screenshot of important weights
+![photo_2024-08-11_16-44-54](https://github.com/user-attachments/assets/c41037de-c1ee-4555-bc8b-8d7dd5fed3bd)
